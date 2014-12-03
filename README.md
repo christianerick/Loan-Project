@@ -1,4 +1,0 @@
-Loan-Project
-============
-
-Loan Project
